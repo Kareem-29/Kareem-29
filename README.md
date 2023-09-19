@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kareem-29
 - 👀 I’m interested in ... Web Development, UX/UI, IoT ,AI and Machine Learning.
-- 🌱 I’m currently learning ... Node.JS
+- 🌱 I’m currently learning ... Node.Js
 - 💞️ I’m looking to collaborate on ... Creating Websites
 - 📫 How to reach me ... LinkedIn: www.linkedin.com/in/abdul-kareem-aldhaif-22b08b150 , Email: akaldhaif@gmail.com
 
