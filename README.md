@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @Kareem-29
-- 👀 I’m interested in ... Web Development, UX/UI, IoT ,AI and Machine Learning.
-- 🌱 I’m currently learning ... Node.Js
-- 💞️ I’m looking to collaborate on ... Creating Websites
-- 📫 How to reach me ... LinkedIn: www.linkedin.com/in/abdul-kareem-aldhaif-22b08b150 , Email: akaldhaif@gmail.com
+## 👋 Introducing Myself
+![Banner](https://github.com/user-attachments/assets/14af3ba8-96ef-4c67-bfc8-1a91404db8ff)
+
+Hi, I'm AbdulKareem — a passionate Front-end Web Developer with a strong foundation in Back-end Development, UX/UI Design, and Data Analysis.
+
+Over the years, I’ve worked on a wide range of projects — from commissioned work to personal passion projects — and I’m excited to share my journey with you. My interests span across Web Development, UX/UI, IoT, Artificial Intelligence, Data Analysis, and Machine Learning. I thrive on solving problems through design and code, and I’m always exploring new technologies to stay ahead of the curve.
+
+📫 How to reach me ... [LinkedIn](www.linkedin.com/in/abdul-kareem-aldhaif-22b08b150). , Email: akaldhaif@gmail.com
 
 <!---
 Kareem-29/Kareem-29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
