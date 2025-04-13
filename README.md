@@ -5,7 +5,7 @@ Hi, I'm AbdulKareem — a passionate Front-end Web Developer with a strong found
 
 Over the years, I’ve worked on a wide range of projects — from commissioned work to personal passion projects — and I’m excited to share my journey with you. My interests span across Web Development, UX/UI, IoT, Artificial Intelligence, Data Analysis, and Machine Learning. I thrive on solving problems through design and code, and I’m always exploring new technologies to stay ahead of the curve.
 
-📫 How to reach me ... [LinkedIn](www.linkedin.com/in/abdul-kareem-aldhaif-22b08b150). , Email: akaldhaif@gmail.com
+📫 How to reach me ...  [LinkedIn](www.linkedin.com/in/abdul-kareem-aldhaif-22b08b150)  , Email: akaldhaif@gmail.com
 
 <!---
 Kareem-29/Kareem-29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
